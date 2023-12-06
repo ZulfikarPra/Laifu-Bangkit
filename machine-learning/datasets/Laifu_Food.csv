@@ -1,0 +1,268 @@
+Food ID,Food Name,Cuisine,Ingredients,Spice Level,Rating,Recommended For,Physical Activity Level,Stress Level,BMI Category,Blood Pressure,Preference
+1,Nasi Goreng,Indonesian,"Fried rice, chicken, prawns, eggs, shallots, soy sauce",Moderate,4.5,Street Food Fans,High,Mild,Normal,120/80,Savory
+2,Rendang,Indonesian,"Spicy beef stew, coconut milk, lemongrass, galangal",High,4.8,Spicy Food Enthusiasts,High,Moderate,Overweight,130/85,Savory
+3,Gado-Gado,Indonesian,"Mixed vegetable salad, peanut sauce, tofu, tempeh",Mild,4.7,Vegetarians,High,Low,Normal,118/75,Vegetarian
+4,Nasi Padang,Indonesian,"Steamed rice, rendang, sambal, curried fish, cassava leaves",High,4.6,Spicy Food Enthusiasts,High,Mild,Normal,120/80,Savory
+5,Soto Ayam,Indonesian,"Chicken soup, vermicelli, shredded chicken, turmeric",Mild,4.7,Soup Lovers,High,Moderate,Normal,120/80,Neutral
+6,Martabak,Indonesian,"Stuffed pancake with chocolate, cheese, peanuts",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Sweet
+7,Bakso,Indonesian,"Meatball soup, noodles, tofu, vegetables",Mild,4.8,Soup Lovers,High,High,Overweight,130/85,Savory
+8,Sate Ayam,Indonesian,"Grilled chicken skewers, peanut sauce, sweet soy sauce",Moderate,4.6,Meat Lovers,High,Moderate,Normal,120/80,Savory
+9,Nasi Uduk,Indonesian,"Coconut rice, fried chicken, anchovies, peanuts, tempeh",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Overweight,130/85,Savory
+10,Pempek,Indonesian,"Fishcake, tapioca, vinegar sauce",Mild,4.5,Street Food Fans,High,High,Overweight,130/85,Savory
+11,Ayam Penyet,Indonesian,"Smashed fried chicken, sambal, cucumber, tempeh, tofu",High,4.8,Spicy Food Enthusiasts,High,Mild,Overweight,130/85,Savory
+12,Sop Buntut,Indonesian,"Oxtail soup, carrots, potatoes, tomatoes",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+13,Pisang Goreng,Indonesian,Deep-fried bananas,Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Sweet
+14,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+15,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+16,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+17,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+18,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+19,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+20,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+21,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+22,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+23,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+24,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+25,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+26,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Overweight,130/85,Savory
+27,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Normal,120/80,Savory
+28,Rendang Burger,Indonesian Fusion,Beef rendang in a burger with sambal mayo,Moderate,4.7,Food Fusion Enthusiasts,Moderate,Moderate,Overweight,130/85,Savory
+29,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Overweight,130/85,Sweet
+30,Soto Madura,Indonesian,"Chicken soup with shredded chicken, vermicelli, lime",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Neutral
+31,Gulai Kambing,Indonesian,"Lamb curry with coconut milk, turmeric, galangal",Moderate,4.8,Spicy Food Enthusiasts,High,Low,Normal,118/75,Savory
+32,Nasi Kuning,Indonesian,"Yellow rice with fried chicken, anchovies, peanuts",Mild,4.7,Celebrations,High,High,Overweight,130/85,Savory
+33,Sate Lilit,Indonesian,Minced fish or meat satay wrapped around bamboo sticks,Moderate,4.6,Seafood Lovers,High,Mild,Normal,120/80,Savory
+34,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Overweight,130/85,Savory
+35,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Savory
+36,Pempek Palembang,Indonesian,"Fishcake, spongy cake, vinegar sauce",Mild,4.8,Street Food Fans,High,Low,Normal,120/80,Savory
+37,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+38,Laksa Betawi,Indonesian,"Spicy noodle soup with coconut milk, chicken, shrimp",Moderate,4.6,Spicy Food Enthusiasts,High,High,Overweight,130/85,Spicy
+39,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Normal,122/78,Savory
+40,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Overweight,130/85,Savory
+41,Nasi Liwet,Indonesian,"Rice cooked in coconut milk, chicken, vegetables",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Normal,120/80,Savory
+42,Lodeh Jawa,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.6,Vegetarians,High,Low,Normal,118/75,Savory
+43,Bakwan Malang,Indonesian,"Meatballs, tofu, fried shrimp, vegetables, broth",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Savory
+44,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Overweight,130/85,Spicy
+45,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Normal,118/75,Savory
+46,Asinan Jakarta,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.6,Healthy Eaters,High,High,Overweight,130/85,Savory
+47,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+48,Nasi Campur,Indonesian,Mixed rice with various side dishes,Mild,4.8,Street Food Fans,High,Low,Normal,122/78,Savory
+49,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Overweight,130/85,Spicy
+50,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Normal,120/80,Savory
+51,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Normal,120/80,Savory
+52,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Overweight,130/85,Sweet
+53,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+54,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+55,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+56,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+57,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+58,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+59,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+60,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+61,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+62,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+63,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+64,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+65,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Overweight,130/85,Savory
+66,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Normal,120/80,Savory
+67,Rendang Burger,Indonesian Fusion,Beef rendang in a burger with sambal mayo,Moderate,4.7,Food Fusion Enthusiasts,Moderate,Moderate,Overweight,130/85,Savory
+68,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Overweight,130/85,Sweet
+69,Soto Madura,Indonesian,"Chicken soup with shredded chicken, vermicelli, lime",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Neutral
+70,Gulai Kambing,Indonesian,"Lamb curry with coconut milk, turmeric, galangal",Moderate,4.8,Spicy Food Enthusiasts,High,Low,Normal,118/75,Savory
+71,Nasi Kuning,Indonesian,"Yellow rice with fried chicken, anchovies, peanuts",Mild,4.7,Celebrations,High,High,Overweight,130/85,Savory
+72,Sate Lilit,Indonesian,Minced fish or meat satay wrapped around bamboo sticks,Moderate,4.6,Seafood Lovers,High,Mild,Normal,120/80,Savory
+73,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Overweight,130/85,Savory
+74,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Savory
+75,Pempek Palembang,Indonesian,"Fishcake, spongy cake, vinegar sauce",Mild,4.8,Street Food Fans,High,Low,Normal,120/80,Savory
+76,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+77,Laksa Betawi,Indonesian,"Spicy noodle soup with coconut milk, chicken, shrimp",Moderate,4.6,Spicy Food Enthusiasts,High,High,Overweight,130/85,Spicy
+78,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Normal,122/78,Savory
+79,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Overweight,130/85,Savory
+80,Nasi Liwet,Indonesian,"Rice cooked in coconut milk, chicken, vegetables",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Normal,120/80,Savory
+81,Lodeh Jawa,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.6,Vegetarians,High,Low,Normal,118/75,Savory
+82,Bakwan Malang,Indonesian,"Meatballs, tofu, fried shrimp, vegetables, broth",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Savory
+83,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Overweight,130/85,Spicy
+84,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Normal,118/75,Savory
+85,Asinan Jakarta,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.6,Healthy Eaters,High,High,Overweight,130/85,Savory
+86,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+87,Nasi Campur,Indonesian,Mixed rice with various side dishes,Mild,4.8,Street Food Fans,High,Low,Normal,122/78,Savory
+88,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Overweight,130/85,Spicy
+89,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Normal,120/80,Savory
+90,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Normal,120/80,Savory
+91,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Overweight,130/85,Sweet
+92,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+93,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+94,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+95,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+96,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+97,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+98,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+99,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+100,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+101,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+102,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+103,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+104,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Overweight,130/85,Savory
+105,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Normal,120/80,Savory
+106,Rendang Burger,Indonesian Fusion,Beef rendang in a burger with sambal mayo,Moderate,4.7,Food Fusion Enthusiasts,Moderate,Moderate,Overweight,130/85,Savory
+107,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Overweight,130/85,Sweet
+108,Soto Madura,Indonesian,"Chicken soup with shredded chicken, vermicelli, lime",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Neutral
+109,Gulai Kambing,Indonesian,"Lamb curry with coconut milk, turmeric, galangal",Moderate,4.8,Spicy Food Enthusiasts,High,Low,Normal,118/75,Savory
+110,Nasi Kuning,Indonesian,"Yellow rice with fried chicken, anchovies, peanuts",Mild,4.7,Celebrations,High,High,Overweight,130/85,Savory
+111,Sate Lilit,Indonesian,Minced fish or meat satay wrapped around bamboo sticks,Moderate,4.6,Seafood Lovers,High,Mild,Normal,120/80,Savory
+112,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Overweight,130/85,Savory
+113,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Savory
+114,Pempek Palembang,Indonesian,"Fishcake, spongy cake, vinegar sauce",Mild,4.8,Street Food Fans,High,Low,Normal,120/80,Savory
+115,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+116,Laksa Betawi,Indonesian,"Spicy noodle soup with coconut milk, chicken, shrimp",Moderate,4.6,Spicy Food Enthusiasts,High,High,Overweight,130/85,Spicy
+117,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Normal,122/78,Savory
+118,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Overweight,130/85,Savory
+119,Nasi Liwet,Indonesian,"Rice cooked in coconut milk, chicken, vegetables",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Normal,120/80,Savory
+120,Lodeh Jawa,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.6,Vegetarians,High,Low,Normal,118/75,Savory
+121,Bakwan Malang,Indonesian,"Meatballs, tofu, fried shrimp, vegetables, broth",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Savory
+122,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Overweight,130/85,Spicy
+123,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Normal,118/75,Savory
+124,Asinan Jakarta,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.6,Healthy Eaters,High,High,Overweight,130/85,Savory
+125,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+126,Nasi Campur,Indonesian,Mixed rice with various side dishes,Mild,4.8,Street Food Fans,High,Low,Normal,122/78,Savory
+127,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Overweight,130/85,Spicy
+128,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Normal,120/80,Savory
+129,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Normal,120/80,Savory
+130,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Overweight,130/85,Sweet
+131,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+132,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+133,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+134,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+135,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+136,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+137,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+138,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+139,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+140,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+141,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+142,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+143,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Overweight,130/85,Savory
+144,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Normal,120/80,Savory
+145,Rendang Burger,Indonesian Fusion,Beef rendang in a burger with sambal mayo,Moderate,4.7,Food Fusion Enthusiasts,Moderate,Moderate,Overweight,130/85,Savory
+146,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Overweight,130/85,Sweet
+147,Soto Madura,Indonesian,"Chicken soup with shredded chicken, vermicelli, lime",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Neutral
+148,Gulai Kambing,Indonesian,"Lamb curry with coconut milk, turmeric, galangal",Moderate,4.8,Spicy Food Enthusiasts,High,Low,Normal,118/75,Savory
+149,Nasi Kuning,Indonesian,"Yellow rice with fried chicken, anchovies, peanuts",Mild,4.7,Celebrations,High,High,Overweight,130/85,Savory
+150,Sate Lilit,Indonesian,Minced fish or meat satay wrapped around bamboo sticks,Moderate,4.6,Seafood Lovers,High,Mild,Normal,120/80,Savory
+151,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Overweight,130/85,Savory
+152,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Savory
+153,Pempek Palembang,Indonesian,"Fishcake, spongy cake, vinegar sauce",Mild,4.8,Street Food Fans,High,Low,Normal,120/80,Savory
+154,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+155,Laksa Betawi,Indonesian,"Spicy noodle soup with coconut milk, chicken, shrimp",Moderate,4.6,Spicy Food Enthusiasts,High,High,Overweight,130/85,Spicy
+156,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Normal,122/78,Savory
+157,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Overweight,130/85,Savory
+158,Nasi Liwet,Indonesian,"Rice cooked in coconut milk, chicken, vegetables",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Normal,120/80,Savory
+159,Lodeh Jawa,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.6,Vegetarians,High,Low,Normal,118/75,Savory
+160,Bakwan Malang,Indonesian,"Meatballs, tofu, fried shrimp, vegetables, broth",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Savory
+161,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Overweight,130/85,Spicy
+162,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Normal,118/75,Savory
+163,Asinan Jakarta,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.6,Healthy Eaters,High,High,Overweight,130/85,Savory
+164,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+165,Nasi Campur,Indonesian,Mixed rice with various side dishes,Mild,4.8,Street Food Fans,High,Low,Normal,122/78,Savory
+166,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Overweight,130/85,Spicy
+167,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Normal,120/80,Savory
+168,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Normal,120/80,Savory
+169,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Overweight,130/85,Sweet
+170,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+171,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+172,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+173,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+174,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+175,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+176,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+177,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+178,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+179,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+180,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+181,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+182,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Overweight,130/85,Savory
+183,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Normal,120/80,Savory
+184,Rendang Burger,Indonesian Fusion,Beef rendang in a burger with sambal mayo,Moderate,4.7,Food Fusion Enthusiasts,Moderate,Moderate,Overweight,130/85,Savory
+185,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Overweight,130/85,Sweet
+186,Soto Madura,Indonesian,"Chicken soup with shredded chicken, vermicelli, lime",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Neutral
+187,Gulai Kambing,Indonesian,"Lamb curry with coconut milk, turmeric, galangal",Moderate,4.8,Spicy Food Enthusiasts,High,Low,Normal,118/75,Savory
+188,Nasi Kuning,Indonesian,"Yellow rice with fried chicken, anchovies, peanuts",Mild,4.7,Celebrations,High,High,Overweight,130/85,Savory
+189,Sate Lilit,Indonesian,Minced fish or meat satay wrapped around bamboo sticks,Moderate,4.6,Seafood Lovers,High,Mild,Normal,120/80,Savory
+190,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Overweight,130/85,Savory
+191,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Normal,118/75,Savory
+192,Pempek Palembang,Indonesian,"Fishcake, spongy cake, vinegar sauce",Mild,4.8,Street Food Fans,High,Low,Normal,120/80,Savory
+193,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+194,Laksa Betawi,Indonesian,"Spicy noodle soup with coconut milk, chicken, shrimp",Moderate,4.6,Spicy Food Enthusiasts,High,High,Overweight,130/85,Spicy
+195,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Normal,122/78,Savory
+196,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Overweight,130/85,Savory
+197,Nasi Liwet,Indonesian,"Rice cooked in coconut milk, chicken, vegetables",Mild,4.7,Comfort Food Enthusiasts,High,Moderate,Normal,120/80,Savory
+198,Lodeh Jawa,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.6,Vegetarians,High,Low,Normal,118/75,Savory
+199,Bakwan Malang,Indonesian,"Meatballs, tofu, fried shrimp, vegetables, broth",Mild,4.5,Soup Lovers,High,Mild,Normal,120/80,Savory
+200,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Overweight,130/85,Spicy
+201,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Normal,118/75,Savory
+202,Asinan Jakarta,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.6,Healthy Eaters,High,High,Overweight,130/85,Savory
+203,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Overweight,130/85,Savory
+204,Nasi Campur,Indonesian,Mixed rice with various side dishes,Mild,4.8,Street Food Fans,High,Low,Normal,122/78,Savory
+205,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Overweight,130/85,Spicy
+206,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Normal,120/80,Savory
+207,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Normal,120/80,Savory
+208,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Overweight,130/85,Sweet
+209,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Normal,122/78,Spicy
+210,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Overweight,130/85,Savory
+211,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Overweight,130/85,Savory
+212,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Normal,120/80,Savory
+213,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Normal,118/75,Savory
+214,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Normal,120/80,Neutral
+215,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Overweight,130/85,Neutral
+216,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Normal,118/75,Spicy
+217,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Overweight,130/85,Savory
+218,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Normal,120/80,Sweet
+219,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Normal,122/78,Spicy
+220,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Normal,118/75,Sweet
+221,Bubur Ayam,Indonesian,Chicken porridge with shredded chicken and condiments,Mild,4.7,Comfort Food Enthusiasts,High,High,Underweight,110/70,Neutral
+222,Sayur Lodeh,Indonesian,"Vegetable stew in coconut milk, tofu, tempeh",Mild,4.7,Vegetarians,High,High,Underweight,105/65,Savory
+223,Tahu Tek,Indonesian,"Fried tofu with peanut sauce, boiled eggs, rice cake",Mild,4.9,Street Snack Fans,Low,Low,Underweight,105/65,Savory
+224,Coto Makassar,Indonesian,"Beef soup with nuts, herbs, spices",Mild,4.7,Soup Lovers,High,Moderate,Underweight,105/65,Savory
+225,Sate Kulit,Indonesian,"Grilled skewers made from cow skin, sweet soy sauce",Moderate,4.8,Adventurous Eaters,High,Mild,Underweight,105/65,Savory
+226,Sambal Udang,Indonesian,Spicy shrimp with chili sauce,Moderate,4.8,Seafood Enthusiasts,High,High,Underweight,105/65,Spicy
+227,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Underweight,105/65,Spicy
+228,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Underweight,110/70,Neutral
+229,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Underweight,105/65,Sweet
+230,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Underweight,105/65,Savory
+231,Es Teler,Indonesian,"Mixed fruit cocktail with avocado, coconut, condensed milk",Mild,4.6,Indonesian Dessert Lovers,Low,High,Underweight,105/65,Sweet
+232,Bubur Ketan,Indonesian,"Sticky rice porridge with chicken, mushrooms, soy sauce",Mild,4.5,Comfort Food Enthusiasts,High,Low,Underweight,105/65,Savory
+233,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Underweight,105/65,Savory
+234,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Underweight,105/65,Sweet
+235,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Underweight,105/65,Neutral
+236,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Underweight,105/65,Spicy
+237,Nasi Tumpeng,Indonesian,"Conical yellow rice, various side dishes",Moderate,4.7,Celebrations,High,Low,Underweight,105/65,Savory
+238,Rujak Cingur,Indonesian,"Salad with beef snout, fruits, vegetables, shrimp paste",Mild,4.7,Healthy Eaters,High,High,Underweight,105/65,Spicy
+239,Gado-Gado,Indonesian,Mixed vegetables with peanut sauce,Mild,4.6,Vegetarians,High,Low,Underweight,105/65,Savory
+240,Mie Goreng,Indonesian,"Fried noodles with chicken, prawns, vegetables, and sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Underweight,105/65,Savory
+241,Sop Iga,Indonesian,"Beef rib soup with vegetables, herbs, spices",Mild,4.6,Soup Lovers,High,Moderate,Underweight,105/65,Savory
+242,Bebek Goreng,Indonesian,"Fried duck, sweet soy sauce, lime",Moderate,4.8,Meat Lovers,High,Moderate,Underweight,105/65,Savory
+243,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Underweight,105/65,Sweet
+244,Sambal Matah,Indonesian,Raw shallot and lemongrass sambal,High,4.6,Spicy Food Enthusiasts,High,Low,Underweight,105/65,Spicy
+245,Sate Kambing,Indonesian,"Grilled lamb skewers, sweet soy sauce, peanut sauce",Moderate,4.8,Meat Lovers,High,Mild,Underweight,105/65,Savory
+246,Pecel Lele,Indonesian,"Fried catfish, peanut sauce, vegetables",Mild,4.7,Seafood Enthusiasts,High,High,Underweight,105/65,Savory
+247,Ketoprak,Indonesian,"Tofu, rice cake, vermicelli, peanut sauce, crackers",Mild,4.6,Vegetarians,High,Mild,Underweight,105/65,Savory
+248,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Underweight,105/65,Savory
+249,Soto Betawi,Indonesian,"Beef soup, coconut milk, tomatoes, potatoes, vermicelli",Mild,4.8,Soup Lovers,High,Mild,Underweight,105/65,Neutral
+250,Bubur Ayam,Indonesian,"Chicken porridge, shredded chicken, fried shallots, soy sauce",Mild,4.7,Comfort Food Enthusiasts,High,High,Underweight,110/70,Neutral
+251,Rujak Buah,Indonesian,"Fruit salad, tamarind dressing, peanuts, chili",Mild,4.9,Healthy Eaters,High,Low,Underweight,105/65,Spicy
+252,Lontong Sayur,Indonesian,"Rice cake soup, tofu, vegetables, coconut milk",Mild,4.6,Vegetarians,High,Mild,Underweight,105/65,Savory
+253,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Underweight,105/65,Sweet
+254,Sate Padang,Indonesian,Grilled beef skewers with Padang-style spicy sauce,High,4.7,Meat Lovers,High,Low,Underweight,105/65,Spicy
+255,Pisang Ijo,Indonesian,"Banana wrapped in green pancake, palm sugar, coconut milk",Mild,4.6,Indonesian Dessert Lovers,Low,Low,Underweight,105/65,Sweet
+256,Asinan,Indonesian,"Preserved fruits and vegetables, peanut sauce",Mild,4.5,Healthy Eaters,High,High,Underweight,105/65,Savory
+257,Mie Goreng,Indonesian,"Fried noodles, chicken, prawns, vegetables, sweet soy sauce",Moderate,4.8,Street Food Fans,High,Mild,Underweight,105/65,Savory
+258,Rawon,Indonesian,"Black beef soup, keluak, herbs, spices",Moderate,4.5,Soup Lovers,High,Moderate,Underweight,105/65,Savory
+259,Pisang Molen,Indonesian,Deep-fried banana roll,Mild,4.7,Street Snack Fans,Low,High,Underweight,105/65,Sweet
+260,Ikan Bakar,Indonesian,"Grilled fish with sambal, lime",High,4.5,Seafood Enthusiasts,High,Low,Underweight,105/65,Savory
+261,Serabi,Indonesian,Coconut pancakes with palm sugar,Mild,4.8,Indonesian Dessert Lovers,Low,Moderate,Underweight,105/65,Sweet
+262,Asinan,Indonesian,Preserved fruits and vegetables with peanut sauce,Mild,4.5,Healthy Eaters,High,High,Underweight,105/65,Savory
+263,Martabak,Indonesian,Stuffed pancake with sweet or savory fillings,Mild,4.9,Street Snack Fans,High,Low,Underweight,105/65,Neutral
+264,Ayam Goreng,Indonesian,Fried chicken with herbs and spices,Moderate,4.8,Meat Lovers,High,Mild,Underweight,105/65,Savory
+265,Soto Ayam,Indonesian,"Chicken soup with vermicelli, turmeric, and herbs",Mild,4.7,Soup Lovers,High,Low,Underweight,105/65,Savory
+266,Pisang Goreng,Indonesian,Deep-fried bananas,Mild,4.6,Street Snack Fans,Low,High,Underweight,105/65,Sweet
+267,Rujak,Indonesian,Mixed fruit salad with sweet and spicy dressing,Mild,4.5,Healthy Eaters,High,Low,Underweight,105/65,Spicy
