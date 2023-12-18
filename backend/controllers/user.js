@@ -60,7 +60,43 @@ const auth = asyncHandler(async (req, res) => {
   }
 });
 
+const update = asyncHandler(async (req, res) => {
+  const id = req.params.id;
+  //const {name, age, gender, occupation, country, city, qualityofSleep, foodRecommendation} = req.body;
+  let result = ""
+  for(var key in req.body){
+    if(req.body[key] != null){
+      try{
+        await User.updateOne({_id: id}, {$set: {[key]: req.body[key]}});
+      } catch(err){
+        res.status(400).json({
+          message: err.message,
+        })
+      }
+      result = result + key + " has been updated to " + req.body[key] + "\n";
+    } 
+  }
+  res.status(200).json({
+    message: result,
+  })
+})
+
+const getAll = asyncHandler(async (req, res) => {
+  try{
+    const users = await User.find({}).select('-password');
+    res.status(200).json({
+      users: users,
+    })
+  } catch(err){
+    res.status(400).json({
+      message: err.message,
+    })
+  }
+});
+
 module.exports = {
   register,
   auth,
+  update,
+  getAll
 };
