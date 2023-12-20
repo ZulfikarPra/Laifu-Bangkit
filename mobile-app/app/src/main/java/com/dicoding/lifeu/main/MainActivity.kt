@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.WindowInsets
 import android.view.WindowManager
+import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import com.dicoding.lifeu.R
 import com.dicoding.lifeu.databinding.ActivityMainBinding
@@ -29,6 +30,10 @@ class MainActivity : AppCompatActivity() {
                 finish()
             }
         }
+//            else{
+//            setContent {
+//                JetLaifuApp(viewModel)
+//            }
 
         setupView()
         setupAction()

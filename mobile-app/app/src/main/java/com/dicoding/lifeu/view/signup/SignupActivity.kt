@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.dicoding.lifeu.databinding.ActivitySignupBinding
 import com.dicoding.lifeu.pref.UserRepository
 
-class SignupActivity(private val repository: UserRepository) : AppCompatActivity() {
+class SignupActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySignupBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -19,9 +19,6 @@ class UserRepository private constructor(
         userPreference.logout()
     }
 
-    fun profile() {
-        userPreference.profile()
-    }
 
     companion object {
         @Volatile
