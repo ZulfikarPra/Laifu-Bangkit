@@ -3,6 +3,10 @@ package com.dicoding.lifeu.view
 import android.content.Context
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.dicoding.lifeu.di.Injection
+import com.dicoding.lifeu.main.MainViewModel
+import com.dicoding.lifeu.pref.UserRepository
+import com.dicoding.lifeu.view.login.LoginViewModel
 
 class ViewModelFactory(private val repository: UserRepository) : ViewModelProvider.NewInstanceFactory() {
 

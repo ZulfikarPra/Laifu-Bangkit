@@ -5,7 +5,12 @@
     <string name="login">Login</string>
     <string name="signup">Signup</string>
     <string name="name">Nama</string>
+    <string name="img">ImageView</string>
+    <string name="mental">Mental Consul</string>
+
+    <string name="desc">Description</string>
     <string name="Register">Register</string>
+    <string name="title_hint">Activity Name</string>
     <string name="title_welcome_page">Selamat datang!</string>
     <string name="message_welcome_page">Personalized Recommendations for Healthy Living and Mental Well-being </string>
 </resources>
