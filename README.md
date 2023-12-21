@@ -1,7 +1,6 @@
 # Laifu
 
 ## Overview
-![laifu png2](https://github.com/ZulfikarPra/Laifu-Bangkit/assets/74854837/c751ef58-8e23-4e38-8b9f-b40578e63b00)
 <img src="https://github.com/ZulfikarPra/Laifu-Bangkit/assets/74854837/c751ef58-8e23-4e38-8b9f-b40578e63b00" alt="laifu png2" width="300" height="auto">
 
 Laifu is an Android application designed to support the well-being of young adults in Indonesia. It provides personalized recommendations and features to enhance both mental and physical health.
