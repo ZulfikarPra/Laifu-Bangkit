@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:srcCompat="@drawable/bgprimer"
+    android:background="@color/cream"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
 
@@ -246,7 +247,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="35dp"
-        android:text="Halo, User 1"
+        android:text="Halo, Yumna"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.126"
         app:layout_constraintStart_toStartOf="parent"
@@ -258,13 +259,14 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
         android:text="Selamat Datang"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.135"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/nama" />
 
     <ImageView
-        android:id="@+id/logoutButton"
+        android:id="@+id/profilemain"
         android:layout_width="50dp"
         android:layout_height="50dp"
         android:layout_marginTop="35dp"
@@ -272,7 +274,7 @@
         app:layout_constraintHorizontal_bias="0.883"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/profile_circle" />
+        app:srcCompat="@drawable/user" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

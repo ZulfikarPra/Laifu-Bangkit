@@ -2,10 +2,11 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:backgroundTint="@color/cream"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".view.profile.Profile">
+    tools:context=".view.profile.ProfileActivity">
 
 
     <ScrollView
@@ -23,7 +24,7 @@
                 android:layout_height="200dp"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="150dp"
-                android:src="@drawable/profile_circle" />
+                android:src="@drawable/user" />
 
             <TextView
                 android:id="@+id/nameTextView"
@@ -32,7 +33,7 @@
                 android:layout_below="@id/profileImageView"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="20dp"
-                android:text="Hanifah Pramesti"
+                android:text="Hello, Yumna"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold" />
@@ -43,22 +44,19 @@
                 android:layout_height="wrap_content"
                 android:layout_below="@id/nameTextView"
                 android:layout_centerHorizontal="true"
-                android:layout_marginTop="10dp"
-                android:text="a175bsx2949@bangkit.academy"
+                android:layout_marginTop="22dp"
+                android:text="yumnaaqila@gmail.com"
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="16sp" />
 
-            <Button
-                android:id="@+id/about_page"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_below="@id/email"
-                android:layout_centerHorizontal="true"
-                android:layout_marginTop="20dp"
-                android:backgroundTint="@color/white"
-                android:text="Back"
-                android:textColor="@color/black"/>
+            <!--            <Button-->
+<!--                android:id="@+id/about_page"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:backgroundTint="@color/white"-->
+<!--                android:text="Back"-->
+<!--                android:textColor="@color/black" />-->
 
         </RelativeLayout>
     </ScrollView>
