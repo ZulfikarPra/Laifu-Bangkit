@@ -19,8 +19,17 @@ Laifu is tailored for individuals aged 15-27, focusing on a holistic approach to
 
 ### Prerequisites
 
+- Tensorflow
 - Android Studio installed
 - JDK version 8 or higher
+- fastapi==0.68.0
+- uvicorn==0.15.0
+- torch==1.9.0
+- transformers==4.9.2
+- pandas==1.3.3
+- sentencepiece==0.1.96
+- datasets==1.11.0
+- accelerate==0.4.0
 
 ### Installation
 
